@@ -26,11 +26,11 @@ All necessary technologies used to Build the prototype are:
 * [Intel® Optimization for TensorFlow](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-tensorflow.html#gs.qcv1ln) 
 
 ## Activity Diagram
-<h3 align="center"><a href=" "><img src="https://github.com/aaditrychoudhury/IntelOneAPI/blob/main/Images/Activity%20dig.png"></a><h3>
+<h3 align="center"><a href=" "><img src="Images/Activity dig.png"></a><h3>
 <br>
 
 ## Architecture Diagram
-<h3 align="center"><a href=" "><img src="https://github.com/aaditrychoudhury/IntelOneAPI/blob/main/Images/Architecture%20dig.png "></a><h3>
+<h3 align="center"><a href=" "><img src="Images/Architecture dig.png "></a><h3>
 	
 ## Steps to Contribute 
 - Fork this repo 
