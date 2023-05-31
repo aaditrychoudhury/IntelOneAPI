@@ -36,8 +36,8 @@ All necessary technologies used to Build the prototype are:
 - Fork this repo 
 - Clone on your local machine 
 ```terminal
-git clone https://github.com/<your username>/NDM-hack.git
-cd Arduino_Amplified
+https://github.com/aaditrychoudhury/IntelOneAPI.git
+cd IntelOneAPI
 ```
 - Create a new branch 
 ```terminal
