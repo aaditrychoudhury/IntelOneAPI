@@ -2,6 +2,7 @@
 <h3>Problem Statement - Object Detection For Autonomous Vehicles</h3>
 
 This project serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
+<h3 align="center"><img src="Images/logo3.jpeg" width="500" height="350"></h3>
 
 ## intel-oneAPI:
 #### Team Name - Benaam
