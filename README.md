@@ -2,7 +2,8 @@
 <h3>Problem Statement - Object Detection For Autonomous Vehicles</h3>
 
 This project serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
-<h3 align="center"><img src="Images/logo3.jpeg" width="500" height="350"></h3>
+![image"](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/b210cddb-3bd0-421e-9cc5-4dec74f431db)
+
 
 ## intel-oneAPI:
 #### Team Name - Benaam
@@ -27,11 +28,11 @@ All necessary technologies used to Build the prototype are:
 * [Intel® Optimization for TensorFlow](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-tensorflow.html#gs.qcv1ln) 
 
 ## Activity Diagram
-<h3 align="center"><a href=" "><img src="Images/Activity dig.png"></a><h3>
+![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/812fb86d-ec94-437d-ac6b-87aac8ebff3d)
 <br>
 
 ## Architecture Diagram
-<h3 align="center"><a href=" "><img src="Images/Architecture dig.png "></a><h3>
+![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/b513a680-b049-4500-b549-0a611a8700a5)
 	
 ## Steps to Contribute 
 - Fork this repo 
