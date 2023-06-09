@@ -49,7 +49,9 @@ cd IntelOneAPI
 ```
 - Open VehicleDetection.py file in any Python Editor
 - HIT Run    
-  
+## Hardware Setup
+![image](https://github.com/YUVRAJ06singh08deora/IntelOne_API/assets/76275812/d96d5ff6-8b43-4e14-9f3e-3b03b7e07800)
+
 ## Learnings 💻 :
 - Understanding Computer Vision: we gained knowledge and hands-on experience in computer vision techniques such as object detection, image     labeling, and model training using frameworks like TensorFlow <br>
 - Integration of Hardware and Software: By incorporating an Arduino microcontroller and LED module into the system, we gained experience       in integrating hardware components with software applications. This involveved establishing communication between software and hardware,     sending and receiving data over a serial connection, and controlling external devices.<br>
