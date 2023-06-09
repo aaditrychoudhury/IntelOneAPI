@@ -34,12 +34,14 @@ All necessary technologies used to Build the prototype are:
 
 
 ## Activity Diagram
+![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/6d2f35a7-db86-4f91-92f8-19863f89d56a)
 
 <br>
 
 ## Architecture Diagram
-![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/b513a680-b049-4500-b549-0a611a8700a5)
-	
+![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/1906be8f-ff80-4f94-996f-38234bf07785)
+
+
 ## Steps to Run 
 - Fork this repo 
 - Clone on your local machine 
