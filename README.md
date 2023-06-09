@@ -12,6 +12,11 @@ This project serves as a showcase of an advanced and refined application of cont
 ## How it works:📃
 The goal of this prototype is to offer appropriate road illumination while also decreasing glare for approaching and retracing vehicles. The goal is achieved by integrating two distinct but connected systems into a single functional whole. The first system maintains the LED matrix hardware, while the second identifies moving targets using a video stream and an object detection model. This combination enables the system to detect vehicles, locate them, and adjust the lights for visibility. Using these coordinated parts, the project shows how LEDs may be used to improve road safety.
 
+## Demo Video
+Youtube Video-: https://youtu.be/hCPSCrTQUeg
+
+![Demo_Video_FInal_converted](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/291226c2-4e29-4001-be8c-2d41c33fd517)
+
  ## Strengths of LoKi 📈:
 - Robust object detection leveraging image processing and ML-DL algorithms
 - Integrated LED matrix within the car's body for effective visual cues
