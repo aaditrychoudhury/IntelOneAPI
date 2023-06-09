@@ -1,9 +1,9 @@
 <h1 align="center"> 🚗LoKi </h1>
 <h3>Problem Statement - Object Detection For Autonomous Vehicles</h3>
 
-This project serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
-![image"](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/b210cddb-3bd0-421e-9cc5-4dec74f431db)
+![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/bb9c43c3-30e0-402c-aabb-39dc3a475b19)
 
+Project LOKI serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
 
 ## intel-oneAPI:
 #### Team Name - Benaam
@@ -34,7 +34,7 @@ All necessary technologies used to Build the prototype are:
 
 
 ## Activity Diagram
-![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/812fb86d-ec94-437d-ac6b-87aac8ebff3d)
+
 <br>
 
 ## Architecture Diagram
