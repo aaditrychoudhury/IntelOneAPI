@@ -15,9 +15,9 @@ The goal of this prototype is to offer appropriate road illumination while also 
 ## Demo Video
 Youtube Video-: https://youtu.be/hCPSCrTQUeg
 
-![Demo_Video_FInal_converted](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/291226c2-4e29-4001-be8c-2d41c33fd517)
+![Demo_Video_FInal_converted](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/c74dcc41-875b-4f9e-99da-14a4de3fdb44)
 
- ## Strengths of LoKi 📈:
+## Strengths of LoKi 📈:
 - Robust object detection leveraging image processing and ML-DL algorithms
 - Integrated LED matrix within the car's body for effective visual cues
 - Low-cost implementation utilizing affordable hardware components
