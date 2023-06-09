@@ -30,6 +30,8 @@ All necessary technologies used to Build the prototype are:
 * [Visual Studio Code](https://visualstudio.microsoft.com/free-developer-offers/) 
 * [Python 3.6 or higher](https://www.python.org/downloads/) 
 * [Intel® Optimization for TensorFlow](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-tensorflow.html#gs.qcv1ln) 
+* [Arduino Uno](https://www.arduino.cc/en/software)
+
 
 ## Activity Diagram
 ![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/812fb86d-ec94-437d-ac6b-87aac8ebff3d)
