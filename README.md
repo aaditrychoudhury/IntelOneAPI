@@ -29,7 +29,6 @@ All necessary technologies used to Build the prototype are:
 * [Arduino IDE](https://www.arduino.cc/en/main/software)
 * [Visual Studio Code](https://visualstudio.microsoft.com/free-developer-offers/) 
 * [Python 3.6 or higher](https://www.python.org/downloads/) 
-* [Intel® Extension for Scikit-learn](https://www.intel.com/content/www/us/en/developer/tools/oneapi/scikit-learn.html#gs.r0w31w)
 * [Intel® Optimization for TensorFlow](https://www.intel.com/content/www/us/en/developer/tools/oneapi/optimization-for-tensorflow.html#gs.qcv1ln) 
 
 ## Activity Diagram
@@ -39,27 +38,15 @@ All necessary technologies used to Build the prototype are:
 ## Architecture Diagram
 ![image](https://github.com/YUVRAJ06singh08deora/IntelOneAPI/assets/76275812/b513a680-b049-4500-b549-0a611a8700a5)
 	
-## Steps to Contribute 
+## Steps to Run 
 - Fork this repo 
 - Clone on your local machine 
 ```terminal
 https://github.com/aaditrychoudhury/IntelOneAPI.git
 cd IntelOneAPI
 ```
-- Create a new branch 
-```terminal
-git checkout -b my-new-branch
-```
-- Add your contributions 
-- Commit and push
-
-```terminal
-git add .
-git commit -m "your-commit-msg"
-git push origin my-new-branch
-```
-- Create a new pull request from your forked repository
-   
+- Open VehicleDetection.py file in any Python Editor
+- HIT Run    
   
 ## Learnings 💻 :
    Write about the biggest learning you had while developing the prototype
