@@ -51,7 +51,10 @@ cd IntelOneAPI
 - HIT Run    
   
 ## Learnings 💻 :
-   Write about the biggest learning you had while developing the prototype
+- Understanding Computer Vision: we gained knowledge and hands-on experience in computer vision techniques such as object detection, image     labeling, and model training using frameworks like TensorFlow <br>
+- Integration of Hardware and Software: By incorporating an Arduino microcontroller and LED module into the system, we gained experience       in integrating hardware components with software applications. This involveved establishing communication between software and hardware,     sending and receiving data over a serial connection, and controlling external devices.<br>
+- Optimising the code through OneDnn Optimisation. <br>
+- Algorithm Design for different scenarios of headlights. <br>
 
 
 ## Contributors
