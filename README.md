@@ -1,6 +1,12 @@
 <h1 align="center"> 🚗LoKi </h1>
 <h3>Problem Statement - Object Detection For Autonomous Vehicles</h3>
 
+## Important Model Files
+- Fine Tuning Model -: 
+https://docs.google.com/presentation/d/1_N7e9IO_4QxC9qnlLZBK1f40UXSgzBRR/edit?usp=sharing&ouid=113550643770849065580&rtpof=true&sd=true 
+
+- Local Model File -: https://drive.google.com/drive/folders/1j9psRktf-svL26Vbbo0MmaiThcKwmJ_Y?usp=sharing
+
 ![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/bb9c43c3-30e0-402c-aabb-39dc3a475b19)
 
 Project LOKI serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
@@ -13,7 +19,12 @@ Project LOKI serves as a showcase of an advanced and refined application of cont
 The goal of this prototype is to offer appropriate road illumination while also decreasing glare for approaching and retracing vehicles. The goal is achieved by integrating two distinct but connected systems into a single functional whole. The first system maintains the LED matrix hardware, while the second identifies moving targets using a video stream and an object detection model. This combination enables the system to detect vehicles, locate them, and adjust the lights for visibility. Using these coordinated parts, the project shows how LEDs may be used to improve road safety.
 
 ## Demo Video
-Youtube Video-: https://youtu.be/hCPSCrTQUeg
+- Youtube Video-: https://youtu.be/hCPSCrTQUeg
+- Video 2 -: https://www.youtube.com/watch?v=E7l97iAzUSM&ab_channel=YuvrajSingh
+
+## Presentation Link
+ https://docs.google.com/presentation/d/1_N7e9IO_4QxC9qnlLZBK1f40UXSgzBRR/edit?usp=sharing&ouid=113550643770849065580&rtpof=true&sd=true 
+
 
 ![Demo_Video_FInal_converted](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/c74dcc41-875b-4f9e-99da-14a4de3fdb44)
 
