@@ -3,7 +3,7 @@
 
 ## Important Model Files
 
-- Local Model File -: https://drive.google.com/drive/folders/1j9psRktf-svL26Vbbo0MmaiThcKwmJ_Y?usp=sharing
+- Local Folder File -: https://drive.google.com/drive/folders/1j9psRktf-svL26Vbbo0MmaiThcKwmJ_Y?usp=sharing
 
 - Dataset and Fine Tuning Link Link -: https://drive.google.com/drive/folders/1B4yiImbhfKi-jaOUgSX_1OsKhQEAck5r?usp=sharing
 ![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/bb9c43c3-30e0-402c-aabb-39dc3a475b19)
