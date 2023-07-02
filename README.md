@@ -2,11 +2,10 @@
 <h3>Problem Statement - Object Detection For Autonomous Vehicles</h3>
 
 ## Important Model Files
-- Fine Tuning Model -: 
-https://docs.google.com/presentation/d/1_N7e9IO_4QxC9qnlLZBK1f40UXSgzBRR/edit?usp=sharing&ouid=113550643770849065580&rtpof=true&sd=true 
 
 - Local Model File -: https://drive.google.com/drive/folders/1j9psRktf-svL26Vbbo0MmaiThcKwmJ_Y?usp=sharing
 
+- Dataset and Fine Tuning Link Link -: https://drive.google.com/drive/folders/1B4yiImbhfKi-jaOUgSX_1OsKhQEAck5r?usp=sharing
 ![image](https://github.com/aaditrychoudhury/IntelOneAPI/assets/76275812/bb9c43c3-30e0-402c-aabb-39dc3a475b19)
 
 Project LOKI serves as a showcase of an advanced and refined application of contemporary headlight technology in modern vehicles. Beyond the conventional low and high beams, its purpose is to exemplify the enhanced capabilities of LEDs in promoting safer driving conditions during low light or dark environments. By harnessing the flexibility inherent in LED technology, this project demonstrates the capacity to illuminate a significant portion of the road while ensuring the absence of blinding effects for both oncoming and preceding traffic, thereby prioritizing the safety of all drivers involved.
